@@ -1,5 +1,4 @@
-# h2o2.ai presents: Voice of H2O
-## A production-ready web application for Voice of Customer (VOC) analysis
+# Voice of Customer Web Application
 
 From retail to big tech, customers can be hard to read - and that's where we come in. Introducing "Voice of H2O", our cutting-edge web application for Voice of Customer analysis. Built on H2OWave, our intuitive interface and advanced analytical capabilities allow firms to bridge the gap between big data and individual customers.
 
